@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;;
+}
+
+img {
+    max-width: 100%;  
+  }
+  
+  .jontu {
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 20px auto 0;
+    padding: ;
+    position: ;
+    position: ;
+    overflow: hidden;
+}
+img {
+    width: auto;
+    position: relative;
+    max-width: inherit;
+    height: 100%;
+    left: -40px;
+    padding: ;
+    transition: .4s;
+    cursor: pointer;
+}
+img:hover {
+    transform: scale(2, 2);
+}
